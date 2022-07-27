@@ -6,13 +6,13 @@ import 'firebase/auth';
 // import { seedDatabase } from '../seed';
 
 const config = {
-  apiKey: '',
-  authDomain: '',
-  databaseURL: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: '',
+  apiKey: "AIzaSyBTniefAzvmFHSa8pLx2K6H-uTQ0-4AF8s",
+  authDomain: "nepflix-91788.firebaseapp.com",
+  projectId: "nepflix-91788",
+  storageBucket: "nepflix-91788.appspot.com",
+  messagingSenderId: "545800619895",
+  appId: "1:545800619895:web:9a031c4e7ceacf75944372",
+  measurementId: "G-GJZ3XZP8E7"
 };
 
 const firebase = Firebase.initializeApp(config);
